@@ -7,6 +7,7 @@ This project was divided into three parts:
 - **Color Identification** by Serena Gutierrez
 
 At this current point in time, object & model identification are incomplete.
+
 However, I hope to have a completed repository in the coming months.
 
 
