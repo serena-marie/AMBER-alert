@@ -1,5 +1,5 @@
 # AMBER-alert
-A group project for **CS4379V: Introduction to Machine Learning**.
+A group project for **CS4347: Introduction to Machine Learning**.
 
 This project was divided into three parts:
 - Object Identification by Jacob Hope
