@@ -17,3 +17,5 @@ This is an incomplete repository.
 - [ ] Object Identification
 - [ ] Model Identification
 
+<img src="https://github.com/serena-marie/AMBER-alert/blob/master/readme_images/black_scatter.png" width="275" height="300" alt="Black Scatterplot"> <img src="https://github.com/serena-marie/AMBER-alert/blob/master/readme_images/silver_scatter.png" width="275" height="300" alt="Silver Scatterplot"> <img src="https://github.com/serena-marie/AMBER-alert/blob/master/readme_images/white_scatter.png" width="275" height="300" alt="White Scatterplot">
+Scatterplots: Black Vehicle, Silver Vehicle, and White Vehicle
