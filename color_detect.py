@@ -1,7 +1,3 @@
-# current implementation only considers red - blue - or green
-# how to implement to consider more colors? is CNN the best approach? 
-# possible solution: if fall into undefined, approach differently. KNN? 
-
 import numpy as np
 import cv2
 import glob
