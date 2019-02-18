@@ -7,7 +7,7 @@ This project was divided into three parts:
 - **Color Identification** by Serena Gutierrez
 
 
-As of Feb. 2019, this code identifies Silver, White, Black, Blue, Green, Yellow, Orange, and Red. It does not identify multi-toned vehicles (i.e. vehicle with a stripe.) 
+As of Feb. 2019, this code identifies Silver, White, Black, Blue, Green, Yellow, Orange, and Red. It does not identify multi-toned vehicles (i.e. vehicle with a stripe.) Currently, reconsidering some implementation choices but will research more into it when I have some more leisure time. 
 
 While the program correctly identifies the dominate color, using K-Means, the real challenge is naming the color. As seen in images below, vehicles that are silver, black, or white (the 3 most common car colors) are difficult to classify because they are very close. 
 
