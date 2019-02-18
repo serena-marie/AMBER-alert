@@ -22,7 +22,6 @@ for f in files:
   # define criteria for kmeans algorithm
   criteria = (cv2.TERM_CRITERIA_EPS + cv2.TERM_CRITERIA_MAX_ITER, 10, 1.0)
   
-  # Looking for the 1st dominant color
   K = 1
   
   ssd,label2,center=cv2.kmeans(RGB,K,None,criteria,10,cv2.KMEANS_RANDOM_CENTERS)
